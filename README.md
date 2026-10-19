@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Nikhil Diwakar 👋
 
-<!--
-**nikhildiwakar666-a11y/nikhildiwakar666-a11y** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 Exploring web development and building projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I'm **Nikhil Diwakar**, based in **Kanpur, Uttar Pradesh, India**. I’m working on **PN-Neet-Div** and learning by building and improving projects.
+
+- 📍 Based in Kanpur, India
+- 🔭 Current project: [PN-Neet-Div](https://github.com/nikhildiwakar666-a11y/PN-Neet-Diw)
+- 🌱 Exploring web development
+- 📫 Find me here on [GitHub](https://github.com/nikhildi-wakar666-a11y)
+
+## 🚀 Featured Project
+
+### PN-Neet-Div
+
+A project I’m building and improving. Visit the repository to see its code and current features.
+
+[View PN-Neet-Div on GitHub](https://github.com/nikhildi-wakar666-a11y/PN-Neet-Div)
+
+---
+
+Thanks for visiting my profile! 😊
