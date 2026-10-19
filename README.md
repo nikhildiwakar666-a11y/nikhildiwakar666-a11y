@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm **Nikhil Diwakar**, based in **Kanpur, Uttar Pradesh, India**. I’m working on **PN-Neet-Div** and learning by building and improving projects.
+I'm **Nikhil Diwakar**, based in **Kanpur, Uttar Pradesh, India**. I’m working on **PN-Neet-Diw** and learning by building and improving projects.
 
 - 📍 Based in Kanpur, India
 - 🔭 Current project: [PN-Neet-Div](https://github.com/nikhildiwakar666-a11y/PN-Neet-Diw)
@@ -15,11 +15,11 @@ I'm **Nikhil Diwakar**, based in **Kanpur, Uttar Pradesh, India**. I’m working
 
 ## 🚀 Featured Project
 
-### PN-Neet-Div
+### PN-Neet-Diw
 
 A project I’m building and improving. Visit the repository to see its code and current features.
 
-[View PN-Neet-Div on GitHub](https://github.com/nikhildi-wakar666-a11y/PN-Neet-Div)
+[View PN-Neet-Diw on GitHub](https://github.com/nikhildiwakar666-a11y/PN-Neet-Diw)
 
 ---
 
